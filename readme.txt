@@ -96,27 +96,7 @@ License This project is licensed for educational and demonstration use. All orig
 
 This template follows standard repository documentation and can be expanded with sections for installation instructions, data sources, or additional visuals as needed.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
+
 Status
+
 Co
