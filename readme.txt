@@ -97,6 +97,3 @@ License This project is licensed for educational and demonstration use. All orig
 This template follows standard repository documentation and can be expanded with sections for installation instructions, data sources, or additional visuals as needed.
 
 
-Status
-
-Co
